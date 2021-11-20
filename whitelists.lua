@@ -1,0 +1,1 @@
+local whitelist = { owner = {1751432499 , }, admin = { 1043052682 },}
